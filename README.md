@@ -69,4 +69,3 @@ https://localhost:5555/swagger
   - **GET /api/customers/inactive** - Получить неактивных клиентов (которые не делали заказы более года)
   - **GET /api/products/{productId}/orders** - Получить все заказы для конкретного продукта
   - **GET /api/orders/products-summary** - Получить сводную информацию о заказах с общей суммой по каждому продукту
- - **
